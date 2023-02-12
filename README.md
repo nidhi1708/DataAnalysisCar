@@ -3,7 +3,7 @@
 The purpose of this project is to Analyse the Cars Dataset to extract out useful information from it , So that it can help in taking the necessary decisions about the best models , companies , body type , price , fuel type etc.
 
 ## App url
-https://share.streamlit.io/nidhi1708/cardataanalysis/app.py
+https://nidhi1708-dataanalysiscar-app-e171o3.streamlit.app/
 
 
 ## Run Locally
